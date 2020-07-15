@@ -1,2 +1,2 @@
 # learning_git
-will do it today
+This Repo contains commands of Git and working github
