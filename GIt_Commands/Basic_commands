@@ -15,3 +15,5 @@ git push --> it push the the changes in the repo back to the centeral repo
 
 git difftool Head --> it shows the difference between the  recent two changes 
 
+touch file name with extension create a file directly in rep by default without extension it create a text file
+
