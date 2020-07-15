@@ -1,0 +1,5 @@
+to compare local repo and centrl serber repo
+
+we use  git difftool origin/master
+
+to resolve conflict use git mergetool
