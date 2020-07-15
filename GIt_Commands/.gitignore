@@ -1,5 +1,9 @@
+ create directly or using  touch .gitignore
+
 .gitignore file is used when we want to  a file to show in untracked list
 for that we create a .gitignore file then add the name of that file in it with extension 
 if we have files with same extension then can 
 simply put a * + extension(ex-.exe)
 push the ,ignore file repository
+
+
