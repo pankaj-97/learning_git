@@ -1,0 +1,11 @@
+1. undo uncomitted changes 
+git checkout --<!-- file name -->  this undo changes in the single specific file 
+git checkout -- . --> undo changes in all file 
+
+2. undo comitted changes 
+git revert <!-- commit has code (obtaing from git log) -->
+git revert -n  <!-- commit has code (obtaing from git log) -->will undo the changes but will not commit them .we have to use commit command seperately 
+
+3.resetting to the previous stamp in past from history .It's like going to the past 
+git reset -- hard <!-- commit has code of previous state  (obtaing from git log) -->
+
