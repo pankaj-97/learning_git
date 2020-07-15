@@ -1,0 +1,14 @@
+In ##most cases head is the reference to the recent commit in active branch 
+
+git show head --> will give log of recent commit 
+or 
+git show <!-- has code of recent commit -->
+
+git difftool <!-- hashcode of past commit  hascode just above -->
+git difftool Head-(how low it is of head 1,2,3 ) Head-(one obove of former)
+
+Detached head --> if you go into some past commit to make changes you are in detach head state
+git checkout <!-- has code of old state -->
+
+getting out of detached head
+ git checkout master 
