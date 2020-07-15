@@ -1,0 +1,20 @@
+git branch --> give list of all branches ,with active branch marked with * and green color
+
+creating new  branch
+git branch <!-- branch-name -->
+
+to make a specific branch active
+git checkout <!-- branch-name -->
+**note it will create a new brach for you if there is no such branch
+
+Merge 
+a.make the brach active in which you want to commit 
+b. use git merge <!-- branch-name that you want to commit -->
+(wq is commit message)
+
+To push a specfic branch in the centeral server/github
+a. make that branch active 
+git push -- set -upstream  origin  <!-- branch-name -->
+or you can simply put git push after making the branch active 
+copy/paste the upstream message
+
