@@ -1,0 +1,17 @@
+<!--  --> is used  highlight
+git status--> it give information like wether you have any uncomitted change or not .Un-commited changes are marked with red color.
+
+git cloning<!--  has code of repo from github/centeral server-->
+
+ls --> give the list of files in the 
+
+git log --> it like a history in browser it will have all the information of the all the changes of a branch with hash code
+
+git add <!-- file name--> it adds the changed file to something called staging area .It is area where the files come before getting comitted
+
+git commit -m '<!-- message of commit-->' .It git the changes locally 
+
+git push --> it push the the changes in the repo back to the centeral repo
+
+git difftool Head --> it shows the difference between the  recent two changes 
+
